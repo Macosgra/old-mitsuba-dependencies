@@ -4,7 +4,7 @@ Files for use mitsuba in old intel processors in windows. Tested on an i7-3770
 
 1- Add files to dependendencies  
 2- Compile mitsuba  
-3- Change the name of these DLL on dist folder  
+3- Duplicate and change the name of these DLL on dist folder  
    * Half.dll -> Half-2_3.dll  
    * zlib1.dll -> zlib.dll  
    
